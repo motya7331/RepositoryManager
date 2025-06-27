@@ -10,7 +10,7 @@
    - Создать проект: `dotnet new avalonia.app -o RepositoryManager`.  
 
    **Дополнительно**  
-   - **Git**: Скачать с [git-scm.com](https://git-scm.com) (Windows/Linux) или установить через Homebrew на macOS (`brew install git`). Настроить: `git config --global user.name "Ваше Имя"`, `git config --global user.email "ваш@email.com"`.  
+   - **Git**: Скачать с [git-scm.com](https://git-scm.com) (Windows/Linux) или установить через Homebrew на macOS (`brew install git`). Настроить: `git config --global user.name "motya7331"`, `git config --global user.email "motya7331@email.com"`.  
    - **Docker**: Установить с [docker.com](https://www.docker.com/products/docker-desktop) для Windows, macOS, Linux.  
    - **Postman**: Скачать с [postman.com](https://www.postman.com/downloads) для Windows, macOS, Linux.  
    - **Google Chrome / Firefox**: Установить с [google.com/chrome](https://www.google.com/chrome) или [mozilla.org/firefox](https://www.mozilla.org/firefox) для UI-тестов на Windows, macOS, Linux.  
@@ -31,7 +31,7 @@
    - **Swashbuckle.AspNetCore**: Документация API (`dotnet add package Swashbuckle.AspNetCore`).  
 
 4. **Первые шаги**  
-   - Клонировать репозиторий: `git clone https://github.com/<владелец>/RepositoryManager.git`.  
+   - Клонировать репозиторий: `git clone https://github.com/motya7331/RepositoryManager.git`.  
    - Восстановить зависимости: `dotnet restore`.  
    - Настроить Docker: `docker build -t repository-manager .`.  
    - Запустить проект: `dotnet run`.  
